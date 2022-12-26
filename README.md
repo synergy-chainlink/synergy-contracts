@@ -2,6 +2,15 @@
 
 > The modern synthetic assets protocol which focus on raw materials.
 
+## Media
+
+To know more about the project, please check
+
+-   Watch 5 minutes video [CLICK](https://www.youtube.com/watch?v=yKvLIuMkoOo)
+-   Check project page on Devpost [CLICK](https://devpost.com/software/cryptan)
+
+## About the project
+
 The idea of the project is inspired by `Synthetix` and `FRAX` and `Overlay` protocols. Balance between over-collaterization part (which is represented by a users-shared debt pool) and algoritmic part (which is represented by a stake-insurance system) of the protocol gives the most stable and the closest peg over all existing synthetic assets protocols today.
 
 ## Contracts overview
